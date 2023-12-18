@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+      "lib": ["ESNext"],
+      "rootDir": "http/src",
+      "outDir": "build",
+      "noImplicitAny": true,
+      "module": "Node16",
+      "target": "ES5",
+      "resolveJsonModule": true,
+      "sourceMap": true,
+      "pretty": true,
+      "moduleResolution":"Node16",
+      "skipLibCheck": true
+  }
+}
