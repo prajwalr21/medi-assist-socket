@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
       "lib": ["ESNext"],
-      "rootDir": "http/src",
+      "rootDir": "src",
       "outDir": "build",
       "noImplicitAny": true,
       "module": "Node16",
